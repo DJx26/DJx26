@@ -38,8 +38,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/DJx26/DJx26/output/snake.svg" alt="Snake animation" />
 
 ###
