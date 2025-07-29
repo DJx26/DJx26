@@ -45,6 +45,4 @@
 
 ###
 
-<img src="https://github.com/DJx26/DJx26/actions/workflows/snake.yml/badge.svg" alt="Snake animation" />
 
-###
